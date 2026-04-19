@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "pinn": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@pinnapp/mcp"
+      ],
+      "env": {
+        "PINN_TOKEN": "pinn_pat_pOYk2kNuoLKiP3tF_6ExMdvoq4M4YOUHe49s0U3anqqQeyLdr8Bz9gliihNs"
+      }
+    }
+  }
+}
